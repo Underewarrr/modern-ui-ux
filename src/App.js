@@ -2,6 +2,8 @@ import React from 'react';
 
 import { Footer, Blog, Features, Header, Possibility, ModernUIUX } from './containers';
 import { Cta, Brand, Navbar } from './components';
+import './app.css';
+
 
 const App = () => {
   return (
