@@ -28,6 +28,10 @@ const Navbar = () => {
               </p>
             </div>
         </div>
+          <div className='uiux__navbar-sign'>
+            <p>Sign in</p>
+            <button type="button">Sign up</button>
+          </div>
       </div>
   )
 }
