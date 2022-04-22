@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Article, Brand, CTA, Feature, Navbar } from './components';
-
+import { Footer, Blog, Features, Header, Possibility, ModernUIUX } from './containers';
+import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
   return (
