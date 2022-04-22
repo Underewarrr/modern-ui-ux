@@ -1,7 +1,8 @@
-export { default as Blog } from './blog/blog';
-export { default as Features } from './features/features';
-export { default as Footer } from './footer/footer';
-export { default as Header } from './header/header';
-export { default as Possibility } from './possibility/possibility';
-export { default as ModernUIUX } from './modernUIUX/modernUIUX';
+export { default as Blog } from './blog/Blog';
+export { default as Features } from './features/Features';
+export { default as Footer } from './footer/Footer';
+export { default as Header } from './header/Header';
+export { default as Possibility } from './possibility/Possibility';
+export { default as ModernUIUX } from './modernUIUX/ModernUIUX';
+export { default as Brand } from './brand/Brand';
 

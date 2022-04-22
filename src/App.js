@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Footer, Blog, Features, Header, Possibility, ModernUIUX } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { Cta, Brand, Navbar } from './components';
 
 const App = () => {
   return (
@@ -14,7 +14,7 @@ const App = () => {
         <ModernUIUX />
         <Features />
         <Possibility />
-        <CTA />
+        <cta />
         <Blog />
         <Footer />
     </div>
