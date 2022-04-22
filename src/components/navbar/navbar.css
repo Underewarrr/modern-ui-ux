@@ -11,3 +11,17 @@
     justify-content: flex-start;
     align-items: center;
 }
+
+.uiux__navbar-links_logo {
+    margin-right: 2rem;
+}
+
+.uiux__navbar-links_logo img {
+    width: 62.56px;
+    height: 16.02px;
+}
+
+.uiux__navbar-links_container {
+ display: flex;
+ flex-direction: row;
+}

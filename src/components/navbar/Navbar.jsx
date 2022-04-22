@@ -9,6 +9,23 @@ const Navbar = () => {
       <div className='uiux__navbar-links'>
         <div className='uiux__navbar-links_logo'>
           <img src={logo} alt="logo" />
+            <div className='uiux__navbar-links_container'>
+              <p>
+                <a href="#home">Home</a>
+              </p>
+              <p>
+                <a href="#wgpt">What is GPT-3</a>
+              </p>
+              <p>
+                <a href="#possibility">Open AI</a>
+              </p>
+              <p>
+                <a href="#features">Case Studies</a>
+              </p>
+              <p>
+                <a href="#blog">Library</a>
+              </p>
+            </div>
         </div>
       </div>
     </div>
