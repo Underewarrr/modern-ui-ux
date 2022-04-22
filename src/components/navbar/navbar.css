@@ -25,3 +25,15 @@
  display: flex;
  flex-direction: row;
 }
+
+.uiux__navbar-sign {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.uiux__navbar-links_container p,
+.uiux__navbar-sign p, 
+.uiux__navbar-menu_container p {
+    color:#fff;
+}
+
