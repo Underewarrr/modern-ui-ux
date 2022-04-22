@@ -9,6 +9,7 @@ const Navbar = () => {
       <div className='uiux__navbar-links'>
         <div className='uiux__navbar-links_logo'>
           <img src={logo} alt="logo" />
+        </div>
             <div className='uiux__navbar-links_container'>
               <p>
                 <a href="#home">Home</a>
@@ -28,7 +29,6 @@ const Navbar = () => {
             </div>
         </div>
       </div>
-    </div>
   )
 }
 
