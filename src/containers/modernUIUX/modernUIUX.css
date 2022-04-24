@@ -27,6 +27,12 @@
     display: flex;
 }
 
+
+
+/* Customizing feature component as per needs */
+.uiux-feature .gpt3__features-container__feature {
+    margin: 0;
+}
 /* Customizing feature component as per needs */
 .uiux__whatgpt3-feature .gpt3__features-container_feature-text {
     max-width: 700px;
@@ -56,4 +62,12 @@
     line-height: 30px;
     color: var(--color-subtext);
     cursor: pointer;
+}
+
+.uiux__whatgpt3-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    margin-top: 2rem;
 }
