@@ -24,7 +24,6 @@ const Partners = () => (
 const Brand = () => {
   return (
     <Partners />
-  
   )
 }
 
