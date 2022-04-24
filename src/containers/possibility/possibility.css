@@ -11,3 +11,16 @@
 
     margin-right: 2rem;
 }
+
+.uiux__possibility-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.uiux__possibility-content {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
+}
