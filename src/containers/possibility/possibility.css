@@ -32,3 +32,7 @@
     line-height: 30px;
     color: #71E5FF;
 }
+
+.uiux__possibility-content h4:last-child {
+    color: #ff8A71;
+}
