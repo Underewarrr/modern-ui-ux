@@ -36,3 +36,11 @@
 .uiux__possibility-content h4:last-child {
     color: #ff8A71;
 }
+
+.uiux__possibility-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
+    margin: 1rem 0;
+}
