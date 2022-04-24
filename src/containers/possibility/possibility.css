@@ -1,0 +1,13 @@
+.uiux__possibility {
+    display: flex;
+    flex-direction: row;
+}
+
+.uiux__possibility-image {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    margin-right: 2rem;
+}
