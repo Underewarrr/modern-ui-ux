@@ -26,3 +26,17 @@
 .uiux__whatgpt3-feature {
     display: flex;
 }
+
+/* Customizing feature component as per needs */
+.uiux__whatgpt3-feature .gpt3__features-container_feature-text {
+    max-width: 700px;
+}
+
+.uiux__whatgpt3-heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    margin: 4rem 0 2rem;
+}
