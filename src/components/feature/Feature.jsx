@@ -7,7 +7,7 @@ const Feature = ({ title, text }) => (
       <div />
       <h1>{title}</h1>
     </div>
-    <div className="uiux__features-container_feature-text">
+    <div className="uiux__features-container__feature-text">
       <p>{text}</p>
     </div>
   </div>
