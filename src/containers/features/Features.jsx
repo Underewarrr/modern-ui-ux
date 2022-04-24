@@ -26,7 +26,6 @@ const featuresData = [
   }
 ]
 
-
 const Features = () => (
   <div className="uiux__features section__padding" id="features">
   <div className="uiux__features-heading">
