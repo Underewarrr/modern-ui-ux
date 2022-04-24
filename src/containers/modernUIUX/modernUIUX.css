@@ -30,7 +30,7 @@
 
 
 /* Customizing feature component as per needs */
-.uiux-feature .gpt3__features-container__feature {
+.uiux__whatgpt3-feature .gpt3__features-container__feature {
     margin: 0;
 }
 /* Customizing feature component as per needs */
@@ -70,4 +70,18 @@
     flex-direction: row;
 
     margin-top: 2rem;
+}
+
+/* Customizing feature component as per needs */
+.uiux__whatgpt3-container .uiux__whatgpt3-container__feature {
+    flex: 1;
+    margin: 1rem;
+    min-width: 210px;
+    display: unset;
+    flex-direction: column;
+}
+
+/* Customizing feature component as per needs */
+.uiux__whatgpt3-container .uiux__whatgpt3-container_feature-text {
+    margin-top: 0.5rem;
 }
