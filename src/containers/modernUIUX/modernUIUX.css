@@ -82,6 +82,6 @@
 }
 
 /* Customizing feature component as per needs */
-.uiux__whatgpt3-container .uiux__whatgpt3-container_feature-text {
+.uiux__whatgpt3-container .uiux__whatgpt3-container__feature-text {
     margin-top: 0.5rem;
 }
