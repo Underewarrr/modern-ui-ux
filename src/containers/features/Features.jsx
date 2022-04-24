@@ -1,6 +1,7 @@
 import React from 'react';
 import './features.css';
 
+import Feature from '../../components/feature/Feature';
 
 const featuresData = [
   {
@@ -31,9 +32,14 @@ const Features = () => (
     <div className="uiux__features-container__feature-title">
       <div />
       <h1>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
+      <p>Request Early Access to Get Started</p>
     </div>
     <div className="uiux__features-container__feature-text">
-      <p>Request Early Access to Get Started</p>
+      {
+        featuresData.map((item, index) => (
+          <Feature title={item.title} text={item.text} key={item.title + index} />
+        ))
+      }
     </div>
   </div>
 );
