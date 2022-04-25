@@ -10,6 +10,6 @@ Feel free to help me finished.
 ## Creating a Fork and PR
 ### Things you need to know
 Our app are an Single Page Aplication, so we can say our `containers` inside `src` are our page. The `components` inside our src are the `components`
-For example in container `Feature` we render the c component `Features`
+For example in `container Feature` we render the `component Features`
 
 Just clone the repo and change to branch `myname-containersname`
