@@ -9,7 +9,7 @@ Feel free to help me finish.
 
 ## Creating a Fork and PR
 ### Things you need to know
-Our app are an Single Page Aplication, so we can say our `containers` inside `src` are our page. The `components` inside our `src` are the `components`
+Our app are an Single Page Aplication, so we can say our `containers` inside `src` are our "`page`". The `components` inside our `src` are the `components`
 For example in `container Feature` we render the `component Features`, everything are called in one page `app.js` like i said `spa`
 
 Just clone the repo and change to branch `myname-containersname`
