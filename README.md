@@ -13,3 +13,5 @@ Our app are an Single Page Aplication, so we can say our `containers` inside `sr
 For example in `container Feature` we render the `component Features`, everything are called in one page `app.js` like i said `spa`
 
 Just clone the repo and change to branch `myname-containersname`
+
+# make sure to install node dependencies
