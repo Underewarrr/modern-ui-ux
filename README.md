@@ -13,7 +13,7 @@ _Clone the repo, `npm install` and `npm start` Have Fun!)_
 _in order to help you to run or fork this project that steps i followed in dev stages._
 ## Template Dev
 - [x] [Modern-UI CSS Setup](https://github.com/openfordevs/modern-ui-ux/pull/1)
-- [x] [Modern-UI NavigationBar Style](https://github.com/openfordevs/modern-ui-ux/pull/2)
+- [x] [Modern-UI HeaderMobile Style](https://github.com/openfordevs/modern-ui-ux/pull/2)
 - [x] [Modern-UI Header Style](https://github.com/openfordevs/modern-ui-ux/pull/3)
 - [x] [Modern-UI BrandSection Style](https://github.com/openfordevs/modern-ui-ux/pull/4)
 - [x] [Modern-UI FutureNowSection Style](https://github.com/openfordevs/modern-ui-ux/pull/6) 
